@@ -1,0 +1,38 @@
+.borda{
+	border: 2px solid darkred;
+}
+
+.pad{
+	padding: 10px;
+}
+
+.pad2{
+	padding: 20px;
+}
+
+.card-cor{
+	background: #FAFAFA;
+	border: none;
+}
+
+
+.rodape{
+	background: #fd0d55;
+	color: white;
+	display: flex;
+}
+.txt{
+	padding: 100px;
+}
+
+.btn{
+background-color: #FD0D55;
+border: none;
+}
+
+@media screen and (max-width:  576px) {
+			.pad2{
+				padding: 10px;
+		}
+			
+}
